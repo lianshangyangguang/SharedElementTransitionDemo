@@ -5,12 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="io.github.hexiangyuan.sharedelementtransitionsdemo.MainActivity">
-    <FrameLayout
-        android:id="@+id/fragment"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        >
-    </FrameLayout>
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="64dp"
